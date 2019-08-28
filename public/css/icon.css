@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+.icon_flight {
+  background-image: url('../../src/assets/account-icon-list.png');
+  background-position: -1px -1px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 20px;
+  vertical-align: middle;
+  width: 26px;
+  margin-right: 5px;
+}
+
+.icon_guzhu {
+  background-image: url('../../src/assets/account-icon-list.png');
+  background-position: -1px -36px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 20px;
+  vertical-align: middle;
+  width: 26px;
+  margin-right: 5px;
+}
+
+.icon_fromApp {
+  background-image: url('../../src/assets/account-icon-list.png');
+  background-position: -1px -74px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 20px;
+  vertical-align: middle;
+  width: 26px;
+  margin-right: 5px;
+}
+
+.icon_user {
+  background-image: url('../../src/assets/account-icon-list.png');
+  background-position: -1px -110px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 20px;
+  vertical-align: middle;
+  width: 26px;
+  margin-right: 5px;
+}
+
+
+.user-icon {
+  background: url('../../src/assets/user-icon.png') no-repeat;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: -9px;
+}
+
+
+.origin-icon {
+  background-image: url('../../src/assets/searchbox-icon.png');
+  background-repeat: no-repeat;
+  background-position: -190px 1px;
+  width: 20px;
+  height: 18px;
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  bottom: 9px;
+  font-family: Microsoft YaHei, Arial, STXihei, "微软雅黑";
+}
+
+.exchange-icon {
+  background-image: url(../../src/assets/searchbox-icon.png);
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 18px;
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  bottom: 9px;
+  font-family: Microsoft YaHei, Arial, STXihei, "微软雅黑";
+}
+
+.destination-icon {
+  background-image: url(../../src/assets/searchbox-icon.png);
+  background-repeat: no-repeat;
+  background-position: -283px 1px;
+  width: 20px;
+  height: 18px;
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  bottom: 9px;
+  font-family: Microsoft YaHei, Arial, STXihei, "微软雅黑";
+}
+
+.adult-icon {
+  background-image: url(../../src/assets/searchbox-icon.png);
+  background-position: 0 -54px;
+  background-repeat: no-repeat;
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+}
+
+.dates-icon {
+  background-image: url(../../src/assets/searchbox-icon.png);
+  background-repeat: no-repeat;
+  background-position: -373px 1px;
+  width: 20px;
+  height: 18px;
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  bottom: 9px;
+  font-family: Microsoft YaHei, Arial, STXihei, "微软雅黑";
+}
+
+.ico_cpcx {
+  width: 36px;
+  height: 36px;
+  background: url(../../src/assets/icon_fight_la.png) no-repeat;
+  background-position: -0px -46px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.ico_jpyz {
+  width: 36px;
+  height: 36px;
+  background: url(../../src/assets/icon_fight_la.png) no-repeat;
+  background-position: -45px -46px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.ico_wsxz {
+  width: 36px;
+  height: 36px;
+  background: url(../../src/assets/icon_fight_la.png) no-repeat;
+  background-position: -92px -46px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.ico_tgq {
+  width: 36px;
+  height: 36px;
+  background: url(../../src/assets/icon_fight_la.png) no-repeat;
+  background-position: -138px -46px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}

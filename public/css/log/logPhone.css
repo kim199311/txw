@@ -1,0 +1,152 @@
+.loginPhone{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:370px;
+    background-color:rgba(255, 255, 255, 0.8);
+}
+.loginPhone_logup{
+    margin:0;
+    width:300px;
+    text-align:left;
+    font-size:12px;
+    margin-top:40px;
+}
+.loginPhone_logup>a{
+    font-size:12px;
+    text-decoration: none;
+    color:#00b2d6;
+}
+.loginEmail_input,.loginPhone_input{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.loginPhone_input>input,.loginEmail_input>input{
+    width:300px;
+    height:38px;
+    margin:7px 0;
+    padding-left:10px;
+    cursor:pointer;
+    border:1px solid #ddd;
+    font-size:14px
+}
+.picNum,.btnNum{
+    width:312px;
+    height:38px;
+    margin:7px auto;
+    border:1px solid #ddd;
+    display:flex;
+    justify-content: space-between;
+}
+.picNum>img{
+    width:128px;
+}
+.picNum>input,.btnNum>input{
+    padding-left:10px;
+    cursor:pointer;
+    border:0;
+    font-size:14px;
+    width:174px
+}
+.picNum:hover,.btnNum:hover{
+    border:1px solid #00b2d6
+}
+.btnNum>button{
+    width:128px;
+    background-color:#f6f5f7;
+    color:#009dbd;
+    outline:none;
+    border:0;
+    cursor:pointer;
+    font-size:12px;
+}
+.btnNum>button:hover{
+    background-color:#dfdce3;
+}
+.loginPhone_input>input:hover,.loginEmail_input>input:hover{
+    border:1px solid #00b2d6
+}
+.question1,.question2{
+    display:flex;
+    flex-direction: column;
+    width:312px;
+    margin:20px;
+}
+.question1>span,.question2>span{
+    font-size:12px;
+    text-align:left;
+}
+.question2>span>a{
+    color:#00b2d6;
+    text-decoration:none
+}
+.question1>input,.question1>select,.question2>input,.question2>select{
+    height:38px;
+    padding-left:10px;
+    cursor:pointer;
+    border:1px solid #ddd;
+    font-size:14px
+}
+.loginPhone_sub{
+    background-color:#00b2d6;
+    border:0px;
+    border-radius:20px;
+    outline:none;
+    width:300px;
+    height:42px;
+    margin:16px auto;
+    color:#ffffff;
+    font-size:15px;
+    text-align:center;
+    line-height:10px;
+    cursor:pointer;
+}
+.loginPhone_sub:hover{
+    background-color:#009dbd;
+}
+.loginPhone_chb{
+    width:300px;
+    display:flex;
+    font-size:12px;
+    align-items:center;
+}
+.loginPhone_login{
+    font-size:12px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.loginPhone_login>a{
+    color:#00b2d6;
+    text-decoration:none
+}
+.loginPhone>h2{
+    margin-top:10px;
+}
+.loginPhone>h4{
+    color:#b6b1bd;
+    font-size:12px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.question1>span{
+    margin-bottom:5px;
+}
+.question2>span{
+    margin-top:5px;
+}
+.alerm{
+    font-size:12px;
+    color:#eb423f;
+    height:13.6px;
+}
+/*当输入成功*/
+.login_Suc{
+    background-image: url("../../img/log/ok.png");
+    background-repeat: no-repeat;
+    background-position: 290px 10px;;
+}
+/*当输入失败*/
+.login_fail{
+    border:1px solid #d32a2e !important;
+}

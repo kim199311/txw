@@ -1,0 +1,34 @@
+CNlist:[
+	{name:"中国国航",src:"img/planeCN/lg_gh.gif",href:""},
+	{name:"南方航空",src:"img/planeCN/lg_nf.png",href:""},
+	{name:"东方航空",src:"img/planeCN/lg_df.png",href:""},
+	{name:"海南航空",src:"img/planeCN/lg_hn.png",href:""},
+	{name:"深圳航空",src:"img/planeCN/lg_sz.png",href:""},
+	{name:"四川航空",src:"img/planeCN/lg_sc.png",href:""},
+	{name:"厦门航空",src:"img/planeCN/lg_xm.png",href:""},
+	{name:"上海航空",src:"img/planeCN/lg_sh.png",href:""},
+	{name:"山东航空",src:"img/planeCN/lg_sd.png",href:""},
+	{name:"成都航空",src:"img/planeCN/lg_cd.jpg",href:""},
+	{name:"吉祥航空",src:"img/planeCN/lg_jx.png",href:""},
+	{name:"中国联航",src:"img/planeCN/lg_lh.png",href:""},
+	{name:"祥鹏航空",src:"img/planeCN/lg_xp.png",href:""},
+	{name:"西部航空",src:"img/planeCN/lg_xb.png",href:""},
+	{name:"天津航空",src:"img/planeCN/lg_tj.png",href:""},
+	{name:"河北航空",src:"img/planeCN/lg_hb.jpg",href:""},
+	{name:"春秋航空",src:"img/planeCN/lg_cq.png",href:""}
+]
+
+ENlist:[
+	{name:"国泰航空",src:"img/planeEN/gj_gt.png",href:""},
+	{name:"皇家约旦航空",src:"img/planeEN/gj_hjyd.png",href:""},
+	{name:"老虎航空",src:"img/planeEN/gj_tiger.jpg",href:""},
+	{name:"捷星航空",src:"img/planeEN/gj_js.jpg",href:""},
+	{name:"吴哥航空",src:"img/planeEN/gj_wg.jpg",href:""},
+	{name:"马达加斯加航空",src:"img/planeEN/gj_md.jpg",href:""},
+	{name:"飞熒航空",src:"img/planeEN/gj_ff.jpg",href:""},
+	{name:"釜山航空",src:"img/planeEN/gj_fs.jpg",href:""},
+	{name:"西捷航空",src:"img/planeEN/gj_xj.jpg",href:""},
+	{name:"亚洲航空",src:"img/planeEN/gj_aa.jpg",href:""},
+	{name:"阿曼航空",src:"img/planeEN/gj_am.jpg",href:""},
+	{name:"西提捷航空CityJet",src:"img/planeEN/gj_xtj.jpg",href:""}
+]

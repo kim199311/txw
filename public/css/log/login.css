@@ -1,0 +1,120 @@
+.login{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:370px;
+    background-color:rgba(255, 255, 255, 0.8);
+}
+.login>button{
+    border:0px;
+    border-radius:20px;
+    outline:none;
+    width:300px;
+    height:42px;
+    margin:16px auto;
+    color:#ffffff;
+    font-size:15px;
+    text-align:center;
+    line-height:10px;
+    cursor:pointer;
+}
+.login>button>span{
+    padding-left:40px;
+    padding-right:40px;
+}
+.login_weixin{
+    background-color:#00d775;
+}
+.login_weixin:hover{
+    background-color:#00bb75;
+}
+.login_weibo{
+    background-color:#ff8785;
+}
+.login_weibo:hover{
+    background-color:#ff5452;
+}
+.login_qq{
+    background-color:#00b2d6;
+}
+.login_sub{
+    background-color:#00b2d6;
+}
+.login_qq:hover,.login_sub:hover{
+    background-color:#009dbd;
+}
+.or{
+    margin:30px 130px 30px 130px;
+    height:1px;
+    width:300px;
+    background-color:rgba(182, 177, 189, 0.5);
+    position: relative;
+}
+.or>span{
+    position: absolute;
+    top:-9px;
+    left:46%;
+    font-size:12px;
+    color:#898294;
+}
+.login_input{
+    display:flex;
+    flex-direction:column;
+    position: relative;
+}
+.login_input>input{
+    width:300px;
+    height:38px;
+    margin:7px 0;
+    padding-left:10px;
+    cursor:pointer;
+    border:1px solid #ddd;
+    font-size:14px;
+
+}
+.login_input>input:hover{
+    border:1px solid #00b2d6
+}
+/*当输入成功*/
+.login_Suc{
+    background-image: url("../../img/log/ok.png");
+    background-repeat: no-repeat;
+    background-position: 290px 10px;;
+}
+/*当输入失败*/
+.login_fail{
+    border:1px solid #d32a2e !important;
+}
+.login_chb{
+    width:300px;
+    display:flex;
+    justify-content:space-between;
+    font-size:12px;
+    align-items:center;
+}
+.login_chb>span{
+    display:flex;
+    align-items: center
+}
+.login_chb>a{
+    color:#00b2d6;
+    text-decoration:none
+}
+.login_logup{
+    font-size:12px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.login_logup>a{
+    color:#00b2d6;
+    text-decoration:none
+}
+.login>h2{
+    margin-top:40px;
+    
+}
+.alerm{
+    font-size:12px;
+    color:#eb423f;
+    height:13.6px;
+}
