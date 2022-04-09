@@ -11,7 +11,7 @@
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
     "express-session": "^1.16.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mysql": "^2.17.1",
     "npmi": "^4.0.0",
     "sass-loader": "^7.1.0",
